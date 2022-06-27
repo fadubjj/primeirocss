@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt">
+  
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+
+  <title>primeiro protótipo de site</title>
+ <style>
+   body {
+     background-color:whitesmoke;
+     font-family:arial;
+     font-size: 20px
+   }
+   h1 {
+     color: red;
+   }
+   h2 {
+     color: blue;
+   }
+   
+ </style>
+  
+</head> 
+
+<body>
+  <h1>HTML</h1>
+  <h2>HTML : Linguagem de marcação de hipertexto.</h2>
+  <h3>Em HTML5 usamos o html para dar semantica ao conteúdo.</h3>
+  <h1>CSS</h1>
+  <h2>CSS folhas de estilo cascata</h2>
+  <h3>Em css damos estilos ao conteúdo.</h3>
+  <h1>JS</h1>
+  <h2>JS : javascript</h2>
+  <h3>Em javascript damos interatividade ao conteúdo.</h3>
+  
+</body>
+  
+
+
+</html>
